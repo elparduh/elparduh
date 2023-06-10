@@ -1,7 +1,5 @@
 ## Hi there 👋
-My name is Juan, but you can call me Parduh.  
-
-# 🏄‍♂️ Parduh
+🧑🏽‍💻 My name is Juan, but you can call me Parduh.  
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
