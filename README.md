@@ -1,19 +1,27 @@
 ## Hi there 👋
 My name is Juan, but you can call me Parduh.  
-- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
-- 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
-- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
-- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
-- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
 
-## Social media
-[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/44yKPxm)
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
-‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
-‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
-‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/kawaaii)
-‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
-‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
+# 🏄‍♂️ Parduh
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
+
 
 
