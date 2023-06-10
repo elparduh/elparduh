@@ -14,6 +14,9 @@
 <img align="left" alt="xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <br>
 <br>
+<img align="left" alt="andstudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<br>
+<br>
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elparduh&count_private=true&show_icons=true&include_all_commits=true)
