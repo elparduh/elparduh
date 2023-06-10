@@ -14,7 +14,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br>
 
 ## Expertise
-<img align="left" alt="medium" src="https://img.shields.io/badge/swift-%23316192.svg?&style=for-the-badge&logo=Swift&logoColor=white" />
+<img align="left" alt="swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 <!--
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
