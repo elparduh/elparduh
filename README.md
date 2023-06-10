@@ -3,19 +3,6 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
-### Hello World 👋
-I am a fullstack software engineer working with ReactJS, NodeJS and AWS Serverless Technologies.
-
-I am also a technical writer. Love to share what I learn.
-
-Personal Website: https://www.mohammadfaisal.dev/
-
-Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=mohammad-faisal)
-![Youtube Views](https://img.shields.io/youtube/channel/views/UCEGGMAzm02aNVqNeXVUeH1Q?style=social)
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
