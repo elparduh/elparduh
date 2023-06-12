@@ -1,6 +1,6 @@
 ## Hi there mates! 👋
 🧑🏽‍💻 My name is Juan, but you can call me Parduh. <br>
-I am a software engineer specialized in mobile development.
+📱 I am a software engineer specialized in mobile development. <br>
 I have experience in swift programming language and the frameworks provided by apple.
 I implement software solutions with best possibles practices for software design. I have worked with multi-disciplinary teams for different industries. <br>
 I'm currently working for mexican startup
