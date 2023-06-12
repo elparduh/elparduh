@@ -1,9 +1,10 @@
 ## Hi there mates! 👋
 🧑🏽‍💻 My name is Juan, but you can call me Parduh. <br>
-📱 I am a software engineer specialized in mobile development. <br>
-I have experience in swift programming language and the frameworks provided by apple.
-I implement software solutions with best possibles practices for software design. I have worked with multi-disciplinary teams for different industries. <br>
-I'm currently working for mexican startup
+📱 I'm a software engineer specialized in mobile development. <br>
+ I have experience in swift programming language and the frameworks provided by apple. <br>
+😎 I implement software solutions with best possibles practices for software design. <br>
+🚀 I have worked with multi-disciplinary teams for different industries. <br>
+🥑 I'm currently working for mexican startup.
 
 <!--I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. -->
 
