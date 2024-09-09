@@ -29,7 +29,6 @@
 <br>
 
 ## Latest Medium Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theparduh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theparduh/0" alt="Latest medium article">
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@modulocero/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@modulocero/0" alt="Latest medium article">
 
 
